@@ -1,3 +1,6 @@
+# Reference:
+# https://www.textjuicer.com/2019/07/crawling-all-submissions-from-a-subreddit/
+
 import requests, time, json, os, sys
 import praw, pprint, prawcore
 import datetime as dt
