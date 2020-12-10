@@ -1,3 +1,4 @@
+# Author: Xiaosong Wang(Simon)
 # Reference:
 # https://www.textjuicer.com/2019/07/crawling-all-submissions-from-a-subreddit/
 
